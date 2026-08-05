@@ -1,0 +1,16 @@
+{
+  "backends": {
+    "xinxin": {
+      "display_name": "新心",
+      "cdp_url": "http://127.0.0.1:9223",
+      "user_data_dir": ".edge_debug_profile",
+      "page_url": "https://union.bytedance.com/open/portal/anchor/list?appId=3000&audio_query_period=4&searchType=anchor&subTab=Default&tab=All"
+    },
+    "zhongding": {
+      "display_name": "中鼎",
+      "cdp_url": "http://127.0.0.1:9224",
+      "user_data_dir": ".edge_debug_profile_zhongding",
+      "page_url": "https://union.bytedance.com/open/portal/anchor/list?appId=3000&audio_query_period=4&searchType=anchor&subTab=Default&tab=All"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.edge_debug_profile/
+.edge_debug_profile_zhongding/
+output/
+data/
+.ruff_cache/
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+*.log
